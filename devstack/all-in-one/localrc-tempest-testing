@@ -24,6 +24,8 @@
 # If the ``*_PASSWORD`` variables are not set here you will be prompted to enter
 # values for them by ``stack.sh`` and they will be added to ``localrc``.
 
+
+# SWAMI update
 HOST_IP=192.168.15.145
 #FLAT_INTERFACE=eth1
 FLOATING_RANGE=192.168.99.0/24
